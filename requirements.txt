@@ -5,3 +5,5 @@ matplotlib
 streamlit==0.76.0
 Pillow
 seaborn
+pickle
+base64
